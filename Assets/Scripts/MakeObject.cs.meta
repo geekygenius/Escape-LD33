@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: e089ad125babbe64da5bed2c1dfeb315
+timeCreated: 1440353134
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - tombstone: {fileID: 114934, guid: 3025408301de5f4499d5b48daccc36dd, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

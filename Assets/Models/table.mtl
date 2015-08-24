@@ -1,0 +1,21 @@
+# Blender MTL File: 'table.blend'
+# Material Count: 2
+
+newmtl Metal
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.430769 0.430769 0.430769
+Ks 0.815385 0.815385 0.815385
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Wood
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.081462 0.156046 0.226002
+Ks 0.406250 0.406250 0.406250
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd E:\\Code\\Unity\\ZombRTS\\Assets\\Textures\\woodGrain.jpg
