@@ -28,7 +28,6 @@ public class ZombiePuncher : MonoBehaviour {
 		foreach (var zombie in GameObject.FindGameObjectsWithTag("Zombie")) {
 			RaycastHit hit;
 			if (!Physics.Linecast(transform.position, zombie.transform.position, out hit)) {
-				Debug.Log ("Spotted");
 				agent.SetDestination(zombie.transform.position);
 				zombieSeen = true;				
 				wander.enabled = false;
